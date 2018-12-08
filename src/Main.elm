@@ -1,11 +1,9 @@
 port module Main exposing (main)
 
 import Browser
-import Browser.Navigation as Nav
 import Html exposing (..)
 import Html.Attributes exposing (..)
 import Html.Events exposing (..)
-import Url
 
 
 
