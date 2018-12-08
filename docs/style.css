@@ -1,0 +1,11 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.editor {
+    border: solid 1px #aaa;
+}
+.result {
+    margin: 0;
+    padding: 0 10px;
+}
